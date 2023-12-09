@@ -1,0 +1,21 @@
+[
+  
+  {
+    "title": "Blackbody radiation",
+    "url": "/posts/blackbody-radiation/",
+    "categories": "Physics",
+    "tags": "physics",
+    "date": "2023-12-08 22:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "IntroBlack-body radiation is the thermal electromagnetic radiation within, or surrounding, a body in thermodynamic equilibrium with its environment, emitted by a black body (an idealized opaque, no...",
+    "content": "IntroBlack-body radiation is the thermal electromagnetic radiation within, or surrounding, a body in thermodynamic equilibrium with its environment, emitted by a black body (an idealized opaque, non-reflective body). It has a specific, continuous spectrum of wavelengths, inversely related to intensity, that depend only on the body’s temperature, which is assumed, for the sake of calculations and theory, to be uniform and constant.  sdklf  slslimport numpy as npimport matplotlib.pyplot as pltplt.style.use('seaborn-v0_8-whitegrid')"
+  }
+  
+]
+
