@@ -24,5 +24,3 @@ Here is how it all works: [Separation of Variables](/assets/0002_Separation_of_v
 <br>
 
 *Featured image: Colonies of the bacterium Legionella on a Petri dish. (Image credit: James Gathany. Centers for Disease Control and Prevention 2005. Public domain. [https://phil.cdc.gov/Details.aspx?pid=7925](https://phil.cdc.gov/Details.aspx?pid=7925), retrieved 6 January 2025)*
-
-Testtest
